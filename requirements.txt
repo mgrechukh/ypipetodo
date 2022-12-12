@@ -1,0 +1,5 @@
+todoist-api-python==2.0.2
+yt_dlp==2022.11.11
+cachetools==5.2.0
+ConfigArgParse==1.5.3
+
