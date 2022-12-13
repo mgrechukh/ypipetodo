@@ -40,7 +40,7 @@ End user receives download status as well as a progress feedback via task state 
 
 ## Backend choice
 
-Despite my own daily usage of [Todoist](https://todoist.com/), I attempted to make codebase modular and components clearly separated. It should be quiet easy to implement support for any other backend, kinda, RTM, Google Keep, or [Hass](https://www.home-assistant.io/), and a little bit more work needed to make backend configurable at runtime. I honestly would be glad to accept MRs. 
+Despite my own daily usage of [Todoist](https://todoist.com/), I attempted to make codebase modular and components clearly separated. It should be quite easy to implement support for any other backend, kinda, RTM, Google Keep, or [Hass](https://www.home-assistant.io/), and a little bit more work needed to make backend configurable at runtime. I honestly would be glad to accept MRs. 
 
 ## Naming
 
